@@ -41,14 +41,20 @@ Meta Horizon Worlds es una aplicación social pensada para visores de realidad v
 La intencionalidad de Meta con Horizon Worlds es la de crear una red social o plataforma en realidad virtual, en la que los usuarios pueden crear y compartirá mundos, experiencias, objetos o ideas, construyéndolos de forma individual o cooperativa en tiempo real.  
 
 Lo primero que hará cada usuario es crear un avatar que le representará en el mundo virtual. Una vez dentro podremos empezar a explorar mundos ya creados por otros usuarios, asistir a eventos como partidos de la NBA, donde vemos como integran publicidad en una pantalla gigante o ir a un Comedy club virtual a escuchar monólogos de avatares en directo. También podemos jugar en Arena Clash una propuesta de juego de disparos por equipos y también podremos charlar con la gente a parte de las opciones de creación de contenido ya mencionadas.  
-
+  
+<p align="center"><img src="https://raw.githubusercontent.com/bexpositoj/PEC3_Manovich_Reloaded/main/img/horizon013.png" alt="Mapa" height="350" width="500"/></br><b>Autor:</b> <i>Benjamín Expósito Jaramillo</i></p>  
+  
 Para comunicarnos, la aplicación integra la voz en el mundo 3D mediante el micrófono que portan los visores de RV integrado, siendo así que si estamos cerca de los demás usuarios nos escucharan con más claridad que si estamos lejos. Cuando hablemos nuestros avatares moverán su boca virtual vocalizando las palabras que nosotros pronunciamos. Esto es gracias a Oculus Lipsync que mapea el habla humana a un conjunto de "visemas" (termino que proviene de fonemas visuales). Cada visema representa la forma de la boca para un conjunto específico de fonemas. Después, se interpolan los distintos visemas para simular el movimiento natural de la boca [(Oculus.com, 2023)](https://developer.oculus.com/documentation/unity/audio-ovrlipsync-viseme-reference/).  
   
 <p align="center"><img src="https://raw.githubusercontent.com/bexpositoj/PEC3_Manovich_Reloaded/main/img/horizon011.png" alt="Mapa" height="350" width="500"/></br><b>Autor:</b> <i>Benjamín Expósito Jaramillo</i></p>
   
 Otra forma de comunicarnos es mediante los gestos que nos permite el tracking de manos y cabeza. Podemos asentir, señalar, levantar el pulgar, chocar los cinco con otro avatar, agacharnos, saltar, etcétera. Las manos y la cabeza son elementos muy expresivos y por lo tanto relevantes a la hora de comunicarnos con otras personas, Horizon Worlds además añade efectos a gestos como levantar las manos al aire o el pulgar arriba que acentúan estos gestos y podemos chocar los puños con otro usuario para crear un “Grupo”. Por supuesto, las manos son lo que nos permiten hacer de todo en el mundo virtual, ya sea pulsar un botón virtual, coger objetos y utilizarlos o lanzarlos, manejar las ventanas y entornos gráficos, etcétera.  
-
+  
+<p align="center"><img src="https://raw.githubusercontent.com/bexpositoj/PEC3_Manovich_Reloaded/main/img/horizon016.png" alt="Mapa" height="350" width="500"/></br><b>Autor:</b> <i>Benjamín Expósito Jaramillo</i></p>  
+  
 Podemos observar como hibridación el que un avatar 3D hable y gesticule con otros avatares en tiempo real, que observe un mundo hecho a partir de otros elementos multimedia con los que puede interactuar. Podemos mencionar también que en la muñeca disponemos de una cámara virtual, para grabar videos o hacer fotos que podemos compartir después. En la creación de mundos podemos cooperar en un mismo proyecto de mundo e incluso crear scripts de forma similar a la que vemos en Scratch. Incluso podemos profundizar en el funcionamiento del posicionado en el espacio del visor, cosa que nos es transparente, pero que emplea el análisis de imágenes de múltiples cámaras para su funcionamiento entre otras técnicas.  
+  
+<p align="center"><img src="https://raw.githubusercontent.com/bexpositoj/PEC3_Manovich_Reloaded/main/img/horizon005.png" alt="Mapa" height="350" width="500"/></br><b>Autor:</b> <i>Benjamín Expósito Jaramillo</i></p>  
 
 ----  
 
