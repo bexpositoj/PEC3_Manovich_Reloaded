@@ -6,7 +6,7 @@ Centro: Universitat Oberta de Catalunya (UOC)
 Asignatura: Cultura digiral - Grado TIDM  
 Fecha: 06/05/2023  
 <p align="center">
-![Logo UOC](https://cv.uoc.edu/mc-icons/inici/logoUOC.png)  
+<img src="https://cv.uoc.edu/mc-icons/inici/logoUOC.png" alt="Logo UOC"/>  
 </p>  
  
 ## Planteamiento
