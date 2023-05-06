@@ -52,7 +52,7 @@ Otra forma de comunicarnos es mediante los gestos que nos permite el tracking de
   
 <p align="center"><img src="https://raw.githubusercontent.com/bexpositoj/PEC3_Manovich_Reloaded/main/img/horizon016.png" alt="Mapa" height="350" width="500"/></br><b>Autor:</b> <i>Benjamín Expósito Jaramillo</i></p>  
   
-Podemos observar como hibridación el que un avatar 3D hable y gesticule con otros avatares en tiempo real, que observe un mundo hecho a partir de otros elementos multimedia con los que puede interactuar. Podemos mencionar también que en la muñeca disponemos de una cámara virtual, para grabar videos o hacer fotos que podemos compartir después. En la creación de mundos podemos cooperar en un mismo proyecto de mundo e incluso crear scripts de forma similar a la que vemos en Scratch. Incluso podemos profundizar en el funcionamiento del posicionado en el espacio del visor, cosa que nos es transparente, pero que emplea el análisis de imágenes de múltiples cámaras para su funcionamiento entre otras técnicas.  
+Podemos observar como hibridación el que un avatar 3D hable y gesticule con otros avatares en tiempo real, que observe un mundo hecho a partir de otros elementos multimedia con los que puede interactuar. Podemos mencionar también que en la muñeca disponemos de una cámara virtual, para grabar videos o hacer fotos que podemos compartir después. En la creación de mundos podemos cooperar en un mismo proyecto de mundo e incluso crear scripts de forma similar a la que vemos en Scratch [(VRinReview, 2021)](https://www.youtube.com/watch?v=haE6nS201gs). Incluso podemos profundizar en el funcionamiento del posicionado en el espacio del visor, cosa que nos es transparente, pero que emplea el análisis de imágenes de múltiples cámaras para su funcionamiento entre otras técnicas.  
   
 <p align="center"><img src="https://raw.githubusercontent.com/bexpositoj/PEC3_Manovich_Reloaded/main/img/horizon005.png" alt="Mapa" height="350" width="500"/></br><b>Autor:</b> <i>Benjamín Expósito Jaramillo</i></p>  
 
@@ -65,6 +65,7 @@ Podemos observar como hibridación el que un avatar 3D hable y gesticule con otr
 * Pokemaster, (2023). **Guía Pokémon GO COMPLETA (2023) | Trucos y Consejos**. Disponible en: [pokemaster.es](https://pokemaster.es/guias/guia-pokemon-go/mapa/localizaciones-segun-los-tipos/). 
 * Daniel Gonzalez, Vandal (2019). **Pokémon Go: cómo afecta el clima del mundo real al juego**. Disponible en: [vandal.elespanol.com](https://vandal.elespanol.com/guias/guia-pokemon-go/climatologia). 
 * Oculus.com (2023). **Viseme Reference**. Disponible en: [oculus.com](https://developer.oculus.com/documentation/unity/audio-ovrlipsync-viseme-reference/). 
+* VRinReview (2021). **Scripting, What Is It? | Writing A One Task Script | Horizon Worlds Tutorials**. Disponible en: [youtube.com](https://www.youtube.com/watch?v=haE6nS201gs)
 
 ----
 
