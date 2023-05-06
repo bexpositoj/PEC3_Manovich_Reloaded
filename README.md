@@ -28,9 +28,9 @@ Si nos ponemos las gafas de Lev Manovich, podemos observar la hibridación en co
 
 ----  
 
-## Re-descubriendo la hibridacion: Caso 2
+## Re-descubriendo la hibridacion: Meta Horizon Worlds  
 
-
+----  
 
 ### Referencias y Bibliografía
 
