@@ -4,7 +4,7 @@
 Autor: Benajín Expóstio Jaramillo  
 Centro: Universitat Oberta de Catalunya (UOC)  
 Asignatura: Cultura digiral - Grado TIDM  
-Fecha: 26/04/2023  
+Fecha: 06/05/2023  
 
 ![Logo UOC](https://cv.uoc.edu/mc-icons/inici/logoUOC.png)  
   
