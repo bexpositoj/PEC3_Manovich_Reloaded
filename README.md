@@ -61,10 +61,10 @@ Podemos observar como hibridación el que un avatar 3D hable y gesticule con otr
 ### Referencias y Bibliografía
 
 * Manovich, Lev. (2013). **El Software toma el mando**. Barcelona: Editorial UOC. 
-* Victor Martinez, Anaitgames (2016). **El Software toma el mando**. Barcelona: Editorial UOC. 
-* Daniel Gonzalez, Vandal (2019). **El Software toma el mando**. Barcelona: Editorial UOC. 
-* Manovich, Lev. (2013). **El Software toma el mando**. Barcelona: Editorial UOC.  
-* Oculus.com (2023). **El Software toma el mando**. Barcelona: Editorial UOC. 
+* Victor Martinez, Anaitgames (2016). **Pokémon Go: Paseando a miss Pidgey**. [anaitgames.com](https://www.anaitgames.com/opinion/pokemon-go-diferencias-game-boy). 
+* Pokemaster, (2023). **Guía Pokémon GO COMPLETA (2023) | Trucos y Consejos**. [pokemaster.es](https://pokemaster.es/guias/guia-pokemon-go/mapa/localizaciones-segun-los-tipos/). 
+* Daniel Gonzalez, Vandal (2019). **Pokémon Go: cómo afecta el clima del mundo real al juego**. [vandal.elespanol.com](https://vandal.elespanol.com/guias/guia-pokemon-go/climatologia). 
+* Oculus.com (2023). **Viseme Reference**. [oculus.com](https://developer.oculus.com/documentation/unity/audio-ovrlipsync-viseme-reference/). 
 
 ----
 
