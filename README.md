@@ -61,7 +61,10 @@ Podemos observar como hibridación el que un avatar 3D hable y gesticule con otr
 ### Referencias y Bibliografía
 
 * Manovich, Lev. (2013). **El Software toma el mando**. Barcelona: Editorial UOC. 
-
+* Victor Martinez, Anaitgames (2016). **El Software toma el mando**. Barcelona: Editorial UOC. 
+* Daniel Gonzalez, Vandal (2019). **El Software toma el mando**. Barcelona: Editorial UOC. 
+* Manovich, Lev. (2013). **El Software toma el mando**. Barcelona: Editorial UOC.  
+* Oculus.com (2023). **El Software toma el mando**. Barcelona: Editorial UOC. 
 
 ----
 
