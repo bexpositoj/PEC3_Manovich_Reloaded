@@ -1,4 +1,4 @@
-# PAC 03. Visionando el futuro con las gafas de Manovich.
+# PEC 03. Visionando el futuro con las gafas de Manovich.
 
 
 Autor: Benajín Expóstio Jaramillo  
