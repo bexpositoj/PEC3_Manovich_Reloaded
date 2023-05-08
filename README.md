@@ -60,7 +60,7 @@ Podemos observar como hibridación el que un avatar 3D hable y gesticule con otr
 
 ## Conclusiones  
 
-La secuela de "El software toma el mando" (Lev Manovich, 2013) , seguramente hablaría de realidad virtual, aumentada y de inteligencia artificial. Según Michael Abrash, científico jefe de Reality Labs en Meta, la realidad virtual sustituirá a los PCs y la realidad aumentada sustituirá a los smartphones, esto permitirá alcanzar el máximo potencial de las interfaces gráficas. El auténtico metaverso se nutrirá de la combinación de estos nuevos paradigmas y la inteligencia artificial es fundamental para el uso de estos dispositivos y los que vendrán [(CogX: Michael Abrash, 2022)](https://youtu.be/gg-V5GhdU-s).
+La secuela de "El software toma el mando" (Lev Manovich, 2013) , seguramente hablaría de realidad virtual, aumentada y de inteligencia artificial. Según Michael Abrash, científico jefe de Reality Labs en Meta, la realidad virtual sustituirá a los PCs y la realidad aumentada sustituirá a los smartphones, esto permitirá alcanzar el máximo potencial de las interfaces gráficas. El auténtico metaverso se nutrirá de la combinación de estos nuevos paradigmas y la inteligencia artificial es fundamental para el uso de estos dispositivos [(CogX: Michael Abrash, 2022)](https://youtu.be/gg-V5GhdU-s).
 
 
 ----  
