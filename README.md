@@ -60,7 +60,7 @@ Podemos observar como hibridación el que un avatar 3D hable y gesticule con otr
 
 ## Conclusiones  
 
-La secuela de "El software toma el mando", seguramente hablaría de realidad virtual, aumentada y de inteligencia artificial. Según Michael Abrash, científico jefe de Reality Labs en Meta, la realidad virtual sustituirá a los PCs y la realidad aumentada sustituirá a los smartphones y el auténtico metaverso se nutrirá de la combinación de estos nuevos paradigmas y la inteligencia artificial es fundamental para el uso de estos dispositivos y los que vendrán
+La secuela de "El software toma el mando", seguramente hablaría de realidad virtual, aumentada y de inteligencia artificial. Según Michael Abrash, científico jefe de Reality Labs en Meta, la realidad virtual sustituirá a los PCs y la realidad aumentada sustituirá a los smartphones, el auténtico metaverso se nutrirá de la combinación de estos nuevos paradigmas y la inteligencia artificial es fundamental para el uso de estos dispositivos y los que vendrán
 [(CogX: Michael Abrash, 2022)](https://youtu.be/gg-V5GhdU-s).
 
 
@@ -73,7 +73,8 @@ La secuela de "El software toma el mando", seguramente hablaría de realidad vir
 * Pokemaster, (2023). **Guía Pokémon GO COMPLETA (2023) | Trucos y Consejos**. Disponible en: [pokemaster.es](https://pokemaster.es/guias/guia-pokemon-go/mapa/localizaciones-segun-los-tipos/). 
 * Daniel Gonzalez, Vandal (2019). **Pokémon Go: cómo afecta el clima del mundo real al juego**. Disponible en: [vandal.elespanol.com](https://vandal.elespanol.com/guias/guia-pokemon-go/climatologia). 
 * Oculus.com (2023). **Viseme Reference**. Disponible en: [oculus.com](https://developer.oculus.com/documentation/unity/audio-ovrlipsync-viseme-reference/). 
-* VRinReview (2021). **Scripting, What Is It? | Writing A One Task Script | Horizon Worlds Tutorials**. Disponible en: [youtube.com](https://www.youtube.com/watch?v=haE6nS201gs)
+* VRinReview (2021). **Scripting, What Is It? | Writing A One Task Script | Horizon Worlds Tutorials**. Disponible en: [youtube.com](https://www.youtube.com/watch?v=haE6nS201gs)  
+* CogX: Michael Abrash (2022). **What does Meta have in store for the metaverse? Michael Abrash, Meta**. Disponible en: [youtube.com](https://youtu.be/gg-V5GhdU-s)
 
 ----
 
