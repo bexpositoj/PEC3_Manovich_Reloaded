@@ -40,6 +40,8 @@ Meta Horizon Worlds es una aplicación social pensada para visores de realidad v
 
 La intencionalidad de Meta con Horizon Worlds es la de crear una red social o plataforma en realidad virtual, en la que los usuarios pueden crear y compartirá mundos, experiencias, objetos o ideas, construyéndolos de forma individual o cooperativa en tiempo real.  
 
+<p align="center"><img src="https://raw.githubusercontent.com/bexpositoj/PEC3_Manovich_Reloaded/main/img/horizon003.png" alt="NBA Arena" height="350" width="500"/></br><b>Autor:</b> <i>Benjamín Expósito Jaramillo</i></p>  
+
 Lo primero que hará cada usuario es crear un avatar que le representará en el mundo virtual. Una vez dentro podremos empezar a explorar mundos ya creados por otros usuarios, asistir a eventos como, partidos de la NBA y ser parte de un público virtual o ir a un Comedy club virtual a escuchar monólogos de avatares en directo. También podemos jugar en Arena Clash una propuesta de juego de disparos por equipos y también podremos charlar con la gente a parte de las opciones de creación de contenido ya mencionadas. En la siguiente imagen vemos como integran publicidad en una pantalla gigante.  
   
 <p align="center"><img src="https://raw.githubusercontent.com/bexpositoj/PEC3_Manovich_Reloaded/main/img/horizon013.png" alt="NBA Arena" height="350" width="500"/></br><b>Autor:</b> <i>Benjamín Expósito Jaramillo</i></p>  
