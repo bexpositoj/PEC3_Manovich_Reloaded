@@ -36,7 +36,7 @@ Si nos ponemos las gafas de Lev Manovich, podemos observar la hibridación en co
 
 ## Re-descubriendo la hibridacion: Meta Horizon Worlds  
 
-Meta Horizon Worlds es una aplicación social pensada para visores de realidad virtual con posicionamiento absoluto o de escala de habitación (Room scale) o también llamado “6 grados de libertad” (6DOF). Estos dispositivos se colocan frente a los ojos con lentes que enfocan una o dos pequeñas pantallas, que muestra gráficos 3D renderizados de forma estereoscópica y al mismo tiempo mapea tu entorno mediante cámaras y análisis de imagen inteligente. Los mandos emplean LEDs infrarrojos para que las cámaras del visor puedan posicionarlos y representarán nuestras manos virtuales.
+Meta Horizon Worlds es una aplicación social pensada para visores de realidad virtual con posicionamiento absoluto o de escala de habitación (Room scale) o también llamado “6 grados de libertad” (6DOF). Estos dispositivos se colocan frente a los ojos con lentes que enfocan una o dos pequeñas pantallas, que muestra gráficos 3D renderizados de forma estereoscópica y al mismo tiempo mapea tu entorno mediante cámaras y análisis de imagen inteligente para posicionarte en el espacio de forma correcta. Los mandos emplean LEDs infrarrojos para que las cámaras del visor puedan posicionarlos y representarán nuestras manos virtuales.
 
 La intencionalidad de Meta con Horizon Worlds es la de crear una red social o plataforma en realidad virtual, en la que los usuarios pueden crear y compartirá mundos, experiencias, objetos o ideas, construyéndolos de forma individual o cooperativa en tiempo real.  
 
