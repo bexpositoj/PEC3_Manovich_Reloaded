@@ -1,7 +1,7 @@
 # PEC 03. Visionando el futuro con las gafas de Manovich.
 
 
-Autor: Benjamín Expóstio Jaramillo  
+Autor: Benjamín Expósito Jaramillo  
 Centro: Universitat Oberta de Catalunya (UOC)  
 Asignatura: Cultura digiral - Grado TIDM  
 Fecha: 06/05/2023  
