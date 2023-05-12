@@ -11,7 +11,7 @@ Fecha: 12/05/2023
  
 ## Planteamiento
 
-En este repositorio presentamos un ensayo sobre dos casos de hibridación moderna, que podrían perfectamente formar parte de una hipotética segunda versión del libro de Manovich. Entendemos por hibridación a los medios que de manera fundamental integran múltiples medios, no como opciones multimedia ramificadas dentro del programa, sino una integración indivisible de medios (Manovich, Lev. 2013) . Cualquier videojuego puede ser un ejemplo de ello. Por ejemplo los motores de videojuegos se componen de: motores gráficos, motores de físicas, motores de audio, juego en línea, etcétera.
+En este repositorio presentamos un ensayo sobre dos casos de hibridación moderna, que podrían perfectamente formar parte de una hipotética segunda versión del libro de Manovich. Entendemos como casos de hibridación a los medios que de manera fundamental integran múltiples medios, no como opciones multimedia ramificadas dentro del programa, sino una integración indivisible de medios (Manovich, Lev. 2013) . Cualquier videojuego puede ser un ejemplo de ello. Por ejemplo los motores de videojuegos se componen de: motores gráficos, motores de físicas, motores de audio, juego en línea, etcétera.
 
 
 ## Re-descubriendo la hibridacion: Pokémon GO  
