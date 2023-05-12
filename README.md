@@ -4,7 +4,7 @@
 Autor: Benjamín Expósito Jaramillo  
 Centro: Universitat Oberta de Catalunya (UOC)  
 Asignatura: Cultura digiral - Grado TIDM  
-Fecha: 06/05/2023  
+Fecha: 12/05/2023  
 <p align="center">
 <img src="https://cv.uoc.edu/mc-icons/inici/logoUOC.png" alt="Logo UOC"/>  
 </p>  
