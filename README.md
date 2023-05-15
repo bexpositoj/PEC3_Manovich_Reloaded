@@ -16,7 +16,7 @@ En este repositorio presentamos un ensayo sobre dos casos de hibridación modern
 
 ## Re-descubriendo la hibridacion: Pokémon GO  
 
-Pokemon Go es un videojuego para dispositivos móviles enfocado en la captura de criaturas virtuales repartidas en un mapa del mundo virtual. Se basa en la ubicación del jugador en tiempo real utilizando tecnología de GPS. La aplicación utiliza el GPS del dispositivo móvil del usuario para identificar su ubicación en el mundo real y luego superpone esta información en un mapa del mundo del juego, es decir que para controlar al personaje del juego, en el mundo virtual, debemos desplazarnos físicamente por el mundo real.  
+Pokemon Go es un videojuego para dispositivos móviles enfocado en la captura de criaturas virtuales repartidas en un "mapa del mundo" virtual. Se basa en la ubicación del jugador en tiempo real utilizando tecnología GPS. La aplicación utiliza la geolocalización del dispositivo móvil del usuario para identificar su ubicación en el mundo real y luego superpone esta información en el mapa del mundo del juego, es decir que para controlar al personaje del juego en el mundo virtual, debemos desplazarnos físicamente por el mundo real.  
 
 <p align="center"><img src="https://raw.githubusercontent.com/bexpositoj/PEC3_Manovich_Reloaded/main/img/mapa.jpg" alt="Mapa" height="400" width="200"/></br><b>Autor:</b> <i>Benjamín Expósito Jaramillo</i></p>  
 
