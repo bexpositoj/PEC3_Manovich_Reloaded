@@ -67,7 +67,7 @@ La secuela de "El software toma el mando" (Lev Manovich, 2013), seguramente habl
 
 ----  
 
-### Referencias y Bibliografía
+### Referencias y bibliografía
 
 * Manovich, Lev. (2013). **El Software toma el mando**. Barcelona: Editorial UOC. 
 * Martinez, Victor. Anaitgames (2016). **Pokémon Go: Paseando a miss Pidgey**. Disponible en: [anaitgames.com](https://www.anaitgames.com/opinion/pokemon-go-diferencias-game-boy). 
