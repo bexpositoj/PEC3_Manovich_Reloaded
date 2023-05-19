@@ -11,7 +11,7 @@ Fecha: 12/05/2023
  
 ## Planteamiento
 
-En este repositorio presentamos un ensayo sobre dos casos de hibridación moderna, que podrían perfectamente formar parte de una hipotética segunda versión del libro "El Software toma el mando" de Lev Manovich. Entendemos como casos de hibridación, los medios que de manera fundamental integran múltiples medios, no como opciones multimedia ramificadas dentro del programa, sino como una integración indivisible (Manovich, Lev. 2013). Cualquier videojuego 3D actual medianamente complejo, puede ser un ejemplo de ello. Por ejemplo los motores de videojuegos se componen de: motores gráficos, motores de físicas, motores de audio, juego en línea, etcétera.
+En este repositorio presentamos un ensayo sobre dos casos de hibridación moderna, que podrían perfectamente formar parte de una hipotética segunda parte del libro "El Software toma el mando" de Lev Manovich. Entendemos como casos de hibridación, los medios que de manera fundamental integran múltiples medios, no como opciones multimedia ramificadas dentro del programa, sino como una integración indivisible (Manovich, Lev. 2013). Cualquier videojuego 3D actual medianamente complejo, puede ser un ejemplo de ello. Por ejemplo los motores de videojuegos se componen de: motores gráficos, motores de físicas, motores de audio, juego en línea, etcétera.
 
 
 ## Re-descubriendo la hibridacion: Pokémon GO  
