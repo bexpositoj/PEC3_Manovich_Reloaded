@@ -36,9 +36,9 @@ Si nos ponemos las gafas de Manovich, desde el principio podemos ver la estétic
 
 ## Re-descubriendo la hibridacion: Meta Horizon Worlds  
 
-Meta Horizon Worlds es una aplicación social pensada para visores de realidad virtual con posicionamiento de escala de habitación (Room scale) o también llamado “6 grados de libertad” (6DOF). Estos dispositivos se colocan frente a los ojos con lentes que enfocan una o dos pequeñas pantallas, que muestra gráficos 3D renderizados de forma estereoscópica y al mismo tiempo mapean tu entorno mediante cámaras y análisis de imagen inteligente para posicionarte en el espacio de forma correcta. Los mandos emplean LEDs infrarrojos para que las cámaras del visor puedan posicionarlos y representarán nuestras manos virtuales.
+Meta Horizon Worlds es una aplicación social pensada para visores de realidad virtual con posicionamiento de escala de habitación (Room scale) o también llamado “6 grados de libertad” (6DOF). Estos dispositivos se colocan frente a los ojos con lentes que enfocan una o dos pequeñas pantallas, que muestra gráficos 3D renderizados de forma estereoscópica y al mismo tiempo mapean tu entorno mediante cámaras y análisis de imagen inteligente para posicionarte en el espacio de forma correcta. Los mandos emplean LEDs infrarrojos para que las cámaras del visor puedan posicionarlos y representarán nuestras manos virtuales. [(Meta, 2023)](https://www.meta.com/es/quest/products/quest-2/)
 
-La intencionalidad de Meta con Horizon Worlds es la de crear una red social o plataforma en realidad virtual, en la que los usuarios pueden crear y compartirá mundos, experiencias, objetos o ideas, construyéndolos de forma individual o cooperativa en tiempo real.  
+La intencionalidad de Meta con Horizon Worlds es la de crear una red social o plataforma en realidad virtual, en la que los usuarios pueden crear y compartirá mundos, experiencias, objetos o ideas, construyéndolos de forma individual o cooperativa en tiempo real [(Meta, 2023)](https://www.meta.com/es/horizon-worlds/).  
 
 <p align="center"><img src="https://raw.githubusercontent.com/bexpositoj/PEC3_Manovich_Reloaded/main/img/horizon003.png" alt="NBA Arena" height="350" width="500"/></br><b>Autor:</b> <i>Benjamín Expósito Jaramillo</i></p>  
 
